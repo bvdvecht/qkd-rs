@@ -7,7 +7,6 @@ use cqc::hdr::MeasOut;
 use cqc::XtraHdr;
 use cqc::hdr::CommHdr;
 use bincode::Config;
-use std::net;
 use std::net::TcpStream;
 
 pub struct Cqc {
