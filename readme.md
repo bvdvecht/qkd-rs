@@ -1,1 +1,1 @@
-Very simple QKD test using the Rust CQC interface.
+Moved to https://github.com/bvdvecht/cqc-rust-wrappers
